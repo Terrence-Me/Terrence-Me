@@ -1,5 +1,5 @@
-![](https://github.com/Terrence-Me/Terrence-Me/blob/main/banner_new.png)
-
+![](https://github.com/Terrence-Me/Terrence-Me/blob/main/banner_new.png) 
+![](https://github.com/Terrence-Me/Terrence-Me/blob/main/banner1.png)
 ### About Me
 Hello All 👋, I'm Terrence and I am a Web Developer currently living in the Raleigh, NC area. I have over 20 years of professional experience in personnel and program management. I’ve worked as a member of both small and large teams, within the US and abroad, and enjoy collaborating to solve complex problems. 
 
