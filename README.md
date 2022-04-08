@@ -1,6 +1,7 @@
 ![](https://github.com/Terrence-Me/Terrence-Me/blob/main/banner_new.png)
 
-### Hello All 👋, I'm Terrence and I am a Web Developer currently living in the Raleigh, NC area. 
+### Hello All 👋
+I'm Terrence and I am a Web Developer currently living in the Raleigh, NC area. 
 
 <br>
 
