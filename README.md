@@ -3,7 +3,7 @@
 ### About Me
 Hello All 👋, I'm Terrence and I am a Web Developer currently living in the Raleigh, NC area. I have over 20 years of professional experience in personnel and program management. I’ve worked as a member of both small and large teams, within the US and abroad, and enjoy collaborating to solve complex problems. 
 
-
+ 
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
