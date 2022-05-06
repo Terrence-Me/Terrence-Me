@@ -5,7 +5,11 @@ Hello All 👋, I'm Terrence and I am a Web Developer currently living in the Ra
 <hr>
 
 ### Recent works
-![A Simple Recipe Finder](https://terrence-me.github.io/simple-recipe-finder/)
+- simple recipe finder: view deployed site [here](https://terrence-me.github.io/simple-recipe-finder/)
+- weather dashboard:  view deployed site [here](https://terrence-me.github.io/weather_dashboard_v2/)
+- Work Day Scheduler: view deployed site [here](https://terrence-me.github.io/workday_scheduler/)
+- "Marketocracy" (Contributer) (MERN) -> An e-commerce based site where buyers can list items for sale. view deployed site [here](https://marketplace-project3.herokuapp.com/)
+- "Riposte" (Contributer) (Full Stack) -> A platform that allows users to disucss on comment on issues of the day. view deployed site [here](https://thawing-fortress-53039.herokuapp.com/register)
  
 
 ### Languages
