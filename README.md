@@ -10,6 +10,8 @@ Hello All 👋, I'm Terrence and I am a Web Developer currently living in the Ra
 - Work Day Scheduler: view deployed site [here](https://terrence-me.github.io/workday_scheduler/)
 - "Marketocracy" (Contributer) (MERN) -> An e-commerce based site where buyers can list items for sale. view deployed site [here](https://marketplace-project3.herokuapp.com/)
 - "Riposte" (Contributer) (Full Stack) -> A platform that allows users to disucss on comment on issues of the day. view deployed site [here](https://thawing-fortress-53039.herokuapp.com/register)
+
+<hr>
  
 
 ### Languages
@@ -36,7 +38,7 @@ Hello All 👋, I'm Terrence and I am a Web Developer currently living in the Ra
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
+<hr>
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Terrence-Me&show_icons=true&theme=vision-friendly-dark) 
