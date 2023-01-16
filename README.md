@@ -4,7 +4,17 @@
 Hello All 👋, I'm Terrence and I am a Web Developer currently living in the Raleigh, NC area. I have over 20 years of professional experience in personnel and program management. I’ve worked as a member of both small and large teams, within the US and abroad, and enjoy collaborating to solve complex problems. 
 <hr>
 
+
+
 ### Recent works
+|TMDB API Project-React (Jan 2023) | TMDB API Project-JS (Jan 2023) | Tic-Tac-Toe Game (May 2022) | Work Day Schedular (May 2022) | weather dashboard (May 2022)|       
+| :---: | :---: | :---: | :---: | :---: |
+|View deployed app [here](https://tmdb-api-project-react.vercel.app/)|View deployed app [here](https://terrence-me.github.io/tmdb_api_project_js/)|View deployed app [here](https://terrence-me.github.io/academind-tic-tac-toe-game/)|View deployed app [here](https://terrence-me.github.io/workday_scheduler/)|View deployed app [here](https://terrence-me.github.io/weather_dashboard_v2/)|
+|Technologies|Technologies|Technologies|Technologies|Technologies|
+|<ul><li>Reactjs</li><li>JavaScript</li><li>Axios</li><li>Semantic-ui-react</li><li>Semantic-ui</li></ul>|<ul><li>JavaScript</li><li>Axios</li><li>CSS</li><li>HTML</li></ul>|<ul><li>JavaScript</li><li>CSS</li><li>HTML</li></ul>|<ul><li>JavaScript</li><li>CSS</li><li>HTML</li></ul>|<ul><li>JavaScript</li><li>bootstrap</li><li>CSS</li><li>HTML</li></ul>|
+
+
+
 - simple recipe finder: view deployed site [here](https://terrence-me.github.io/simple-recipe-finder/)
 - weather dashboard:  view deployed site [here](https://terrence-me.github.io/weather_dashboard_v2/)
 - Work Day Scheduler: view deployed site [here](https://terrence-me.github.io/workday_scheduler/)
